@@ -1,0 +1,14 @@
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\bin\Debug\COP4226_Assignment2.exe.config
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\bin\Debug\COP4226_Assignment2.exe
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\bin\Debug\COP4226_Assignment2.pdb
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.csproj.AssemblyReference.cache
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.couponsFrm.resources
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.Form1.resources
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.productsFrm.resources
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.Properties.Resources.resources
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.csproj.GenerateResource.cache
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.exe
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.pdb
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.containFrm.resources
+C:\Users\ssj35\source\repos\COP4226_Assignment2\COP4226_Assignment2\obj\Debug\COP4226_Assignment2.aboutFrm.resources

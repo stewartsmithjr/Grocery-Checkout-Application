@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\couponsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\couponsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\couponsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\couponsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\productsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\productsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\aboutfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\aboutfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\aboutfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\aboutfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\containfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\containfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\containfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\containfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\productsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\productsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|c:\\users\\ssj35\\source\\repos\\cop4226_assignment2\\cop4226_assignment2\\couponsfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BE1550-12E0-46B0-BDAE-06C84BA73786}|COP4226_Assignment2\\COP4226_Assignment2.csproj|solutionrelative:cop4226_assignment2\\couponsfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productsFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\productsFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\productsFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\productsFrm.cs",
+              "RelativeToolTip": "COP4226_Assignment2\\productsFrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:31:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "aboutFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\aboutFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\aboutFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\aboutFrm.cs [Design]",
+              "RelativeToolTip": "COP4226_Assignment2\\aboutFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:13:49.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "couponsFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\couponsFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\couponsFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\couponsFrm.cs [Design]",
+              "RelativeToolTip": "COP4226_Assignment2\\couponsFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:24:04.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "couponsFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\couponsFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\couponsFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\couponsFrm.cs",
+              "RelativeToolTip": "COP4226_Assignment2\\couponsFrm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAlwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:43:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\Form1.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\Form1.cs [Design]",
+              "RelativeToolTip": "COP4226_Assignment2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:01:42.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\Form1.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\Form1.cs",
+              "RelativeToolTip": "COP4226_Assignment2\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:11:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aboutFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\aboutFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\aboutFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\aboutFrm.cs",
+              "RelativeToolTip": "COP4226_Assignment2\\aboutFrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:16:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "containFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\containFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\containFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\containFrm.cs [Design]",
+              "RelativeToolTip": "COP4226_Assignment2\\containFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:39:52.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "containFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\containFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\containFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\containFrm.cs",
+              "RelativeToolTip": "COP4226_Assignment2\\containFrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T02:41:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "productsFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\productsFrm.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\productsFrm.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\productsFrm.cs [Design]",
+              "RelativeToolTip": "COP4226_Assignment2\\productsFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:55:49.964Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\Form1.Designer.cs",
+              "RelativeToolTip": "COP4226_Assignment2\\Form1.Designer.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAD4vxMBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:57:14.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "couponsFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\couponsFrm.Designer.cs",
+              "RelativeDocumentMoniker": "COP4226_Assignment2\\couponsFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\ssj35\\source\\repos\\COP4226_Assignment2\\COP4226_Assignment2\\couponsFrm.Designer.cs",
+              "RelativeToolTip": "COP4226_Assignment2\\couponsFrm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:34:22.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
